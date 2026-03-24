@@ -54,9 +54,8 @@ FROM
     JOIN entities AS e ON ic.Entity = e.Entity AND ic.Code = e.entity_Code;
 
 DESCRIBE infect_types;
-    
--- 3. Проаналізуйте дані:
 
+-- 3. Проаналізуйте дані:
 SELECT
     DISTINCT entity_ID,
     AVG(CAST(Number_rabies AS FLOAT)) AS avgCases_rabies,

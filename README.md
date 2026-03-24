@@ -63,13 +63,16 @@
 
 ![Screen-Homework-Point5-02](assets/p5-02.png)
 
-Допрацювання:
+## Допрацювання:
 - Дані були імпортовані знову. Попередня відсутність частини даних пов'язана з "жорстким" режимом перевірки імпортованих даних (strict mode)
 - Зроблені перерахунки результатів запитів
 
-![Screen-Homework-PointC-01](assets/p5-01.png)
-![Screen-Homework-PointC-02](assets/p5-02.png)
-![Screen-Homework-PointC-03](assets/p5-03.png)
-![Screen-Homework-PointC-04](assets/p5-04.png)
-![Screen-Homework-PointC-05](assets/p5-05.png)
-![Screen-Homework-PointC-06](assets/p5-06.png)
+![Screen-Homework-PointC-01](assets/pc-01.png)
+![Screen-Homework-PointC-02](assets/pc-02.png)
+![Screen-Homework-PointC-03-01](assets/pc-03-01.png)
+![Screen-Homework-PointC-03-02](assets/pc-03-02.png)
+![Screen-Homework-PointC-04](assets/pc-04.png)
+![Screen-Homework-PointC-05-01](assets/pc-05-01.png)
+![Screen-Homework-PointC-05-02](assets/pc-05-02.png)
+![Screen-Homework-PointC-05-03](assets/pc-05-03.png)
+![Screen-Homework-PointC-05-04](assets/pc-05-04.png)
